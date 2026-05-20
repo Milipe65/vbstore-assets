@@ -8,7 +8,7 @@ As imagens estão disponíveis através do GitHub Pages.
 
 Exemplo de URL:
 
-https://milipe65.github.io/vbstore-assets/images/logo.png
+https://github.com/Milipe65/vbstore-assets/tree/main
 
 ## Direitos
 
