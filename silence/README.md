@@ -1,6 +1,6 @@
 # VB Store Assets
 
-Este repositório guarda imagens públicas usadas nos embeds e menus do bot da VB Store.
+Este repositório guarda imagens públicas usadas nos embeds e menus dos bots da VB Store.
 
 ## Imagens
 
